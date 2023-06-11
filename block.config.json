@@ -1,0 +1,21 @@
+{
+  "name": "testpj",
+  "type": "package",
+  "blockId": "zeHrJnFM1XOs2ETWgBXW5",
+  "source": {
+    "https": "https://github.com/uttahb/testpj.git",
+    "ssh": "git@github.com:uttahb/testpj.git",
+    "branch": "block_testpj"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testp4": {
+      "directory": "testp4"
+    }
+  }
+}
