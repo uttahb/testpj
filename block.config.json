@@ -1,0 +1,28 @@
+{
+  "name": "testp4",
+  "type": "package",
+  "blockId": "qWan3nwk_Ax4hpWhK147M",
+  "source": {
+    "https": "https://github.com/uttahb/testpj.git",
+    "ssh": "git@github.com:uttahb/testpj.git",
+    "branch": "block_testp4"
+  },
+  "parentBlockIDs": [
+    "zeHrJnFM1XOs2ETWgBXW5"
+  ],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "test4_pack1": {
+      "directory": "test4_pack1",
+      "versionId": "Z1xKGOGYjCe5couoQCgnB",
+      "version": "0.0.1"
+    }
+  },
+  "version": "0.0.1",
+  "versionId": "Mi89h-YOLlHPY9gWaLxdy",
+  "variantOf": "Mi89h-YOLlHPY9gWaLxdy"
+}
