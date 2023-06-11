@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "qWan3nwk_Ax4hpWhK147M",
   "source": {
-    "https": "https://github.com/Athuln/testp4.git",
-    "ssh": "git@github.com:Athuln/testp4.git",
+    "https": "https://github.com/uttahb/testpj.git",
+    "ssh": "git@github.com:uttahb/testpj.git",
     "branch": "block_testp4"
   },
   "parentBlockIDs": [
